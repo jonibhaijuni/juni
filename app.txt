@@ -5,7 +5,7 @@
         "download_url": "https:\/\/play.google.com\/store\/apps\/details?id=com.goal.scorelivemindstudios.puzzle",
         "web_url": "https:\/\/example.com",
         "app_version": "3",
-        "message": "Help Us Stay Free -Ratings help us keep Dofu free and ad-light. Your 5 stars make a real difference. Tap below! ",
+        "message": "A fresh look, followed teams and a faster player are waiting. Already updated? You can ignore this.",
         "message_url": "https:\/\/play.google.com\/store\/apps\/details?id=com.goal.scorelivemindstudios.puzzle",
         "share_message": "https:\/\/play.google.com\/store\/apps\/details?id=com.goal.scorelivemindstudios.puzzle",
         "bottom_visible": "no",
