@@ -5,7 +5,7 @@
         "download_url": "https:\/\/play.google.com\/store\/apps\/details?id=com.goal.scorelivemindstudios.puzzle",
         "web_url": "https:\/\/example.com",
         "app_version": "0",
-        "message": "Follow Us On Facebook",
+        "message": "\u2b50 Like our app? Give us a 5-star rating! \u2764\ufe0f",
         "message_url": "https:\/\/www.facebook.com\/share\/18FEoGQK2D\/",
         "share_message": "https:\/\/play.google.com\/store\/apps\/details?id=com.goal.scorelivemindstudios.puzzle",
         "bottom_visible": "no",
